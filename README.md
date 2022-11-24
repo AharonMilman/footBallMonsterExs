@@ -1,3 +1,3 @@
 # footBallMonsterExs
 Exercise from course 
-👀 - 
+- 👀 - 
